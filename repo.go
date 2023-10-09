@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	rpm "github.com/cavaliercoder/go-rpm"
+    "github.com/cavaliergopher/rpm"
 )
 
 // Repos is a collection of RPM repo instances
